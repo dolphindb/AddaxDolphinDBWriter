@@ -1,0 +1,6 @@
+{
+  "name": "dolphindbwriter",
+  "class": "com.wgzhao.addax.plugin.writer.dolphindbwriter.DolphindbWriter",
+  "description": "DolphinDb writer plugin",
+  "developer": "sy"
+}
